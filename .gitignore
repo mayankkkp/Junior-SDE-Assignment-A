@@ -1,0 +1,28 @@
+# Generated
+data/
+data_large/
+reports/
+pipeline.db
+pipeline.db-wal
+pipeline.db-shm
+*.db
+*.db-wal
+*.db-shm
+*.egg-info/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Env
+.env
+.env.*
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
